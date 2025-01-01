@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/Admin/template/component/navbarMenu.jsp=UTF-8
+encoding//WebContent/Admin/template/index.jsp=UTF-8
+encoding//WebContent/Admin/template/management/CategoryManagement.jsp=UTF-8
+encoding//WebContent/Admin/template/management/EventManagement.jsp=UTF-8
+encoding//WebContent/Admin/template/management/ProductManagement.jsp=UTF-8
+encoding//WebContent/Admin/template/management/UserManagement.jsp=UTF-8
+encoding//WebContent/Admin/template/statistical/AddQtt.jsp=UTF-8
+encoding//WebContent/Admin/template/statistical/ProductStatistical.jsp=UTF-8
+encoding//WebContent/Admin/template/statistical/UserStatistical.jsp=UTF-8
+encoding//WebContent/Page/component/header/headerFirst.jsp=UTF-8
+encoding//WebContent/Page/component/header/headerSecond.jsp=UTF-8
+encoding//WebContent/Page/productDetail.jsp=UTF-8
+encoding//src/web/java/AdminController/AdHomeController.java=UTF-8
+encoding//src/web/java/dao/ProductDAO.java=UTF-8
+encoding//src/web/java/dao/UserDAO.java=UTF-8
